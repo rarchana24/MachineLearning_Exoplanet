@@ -111,9 +111,11 @@ Made predicitons from the hypertuned model.
 
 
 ## Findings
+
 Deep Learning has the highest accuracy because it used more than one layer of hidden nodes. 
 The SVM and Logistic Regression Model produced the results around the same accuracy.(0.87) when they are hypertuned with GridSearch parameters
 The scores of the hypertuned GridSearch models slightly increased when compared to the test scores of the regular SVM and Logistic Regression models. 
+
 SVM Test Scores : 
 -------------------
 Training Data Score: 0.8472248712569139
